@@ -107,8 +107,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 ## 👤 Autor
 
 **Seu Nome**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- Portfolio: [Meu Portfolio](https://seu-portfolio.com)
+- GitHub: [@RegivanCS](https://github.com/RegivanCS)
 
 ## 🎯 Melhorias Futuras
 
