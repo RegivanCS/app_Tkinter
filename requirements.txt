@@ -1,0 +1,11 @@
+# Este projeto usa apenas bibliotecas padrão do Python
+# Tkinter geralmente vem pré-instalado com Python
+
+# Para garantir compatibilidade, certifique-se de ter:
+# Python >= 3.7
+
+# No Windows, Tkinter vem com Python
+# No Linux, pode ser necessário instalar:
+# sudo apt-get install python3-tk
+
+# No macOS, Tkinter vem com Python
